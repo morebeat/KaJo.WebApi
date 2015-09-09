@@ -1,0 +1,16 @@
+D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Tools.Initialize\bin\Debug\KaJo.WebAPI.Tools.Initialize.exe.config
+D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Tools.Initialize\bin\Debug\KaJo.WebAPI.Tools.Initialize.exe
+D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Tools.Initialize\bin\Debug\KaJo.WebAPI.Tools.Initialize.pdb
+D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Tools.Initialize\bin\Debug\EntityFramework.dll
+D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Tools.Initialize\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Tools.Initialize\bin\Debug\KaJo.WebAPI.Data.dll
+D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Tools.Initialize\bin\Debug\KaJo.WebAPI.Data.Model.dll
+D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Tools.Initialize\bin\Debug\KaJo.WebAPI.Data.SqlServer.dll
+D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Tools.Initialize\bin\Debug\KaJo.WebAPI.Data.pdb
+D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Tools.Initialize\bin\Debug\KaJo.WebAPI.Data.SqlServer.pdb
+D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Tools.Initialize\bin\Debug\KaJo.WebAPI.Data.Model.pdb
+D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Tools.Initialize\bin\Debug\EntityFramework.xml
+D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Tools.Initialize\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Tools.Initialize\obj\Debug\KaJo.WebAPI.Tools.Initialize.csprojResolveAssemblyReference.cache
+D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Tools.Initialize\obj\Debug\KaJo.WebAPI.Tools.Initialize.exe
+D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Tools.Initialize\obj\Debug\KaJo.WebAPI.Tools.Initialize.pdb

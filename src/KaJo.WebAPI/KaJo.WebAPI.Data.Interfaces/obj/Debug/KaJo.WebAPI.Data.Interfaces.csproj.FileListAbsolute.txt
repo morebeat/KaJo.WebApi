@@ -1,0 +1,4 @@
+D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Data.Interfaces\bin\Debug\KaJo.WebAPI.Data.Interfaces.dll
+D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Data.Interfaces\bin\Debug\KaJo.WebAPI.Data.Interfaces.pdb
+D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Data.Interfaces\obj\Debug\KaJo.WebAPI.Data.Interfaces.dll
+D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Data.Interfaces\obj\Debug\KaJo.WebAPI.Data.Interfaces.pdb

@@ -1,0 +1,5 @@
+D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Data\bin\Debug\KaJo.WebAPI.Data.Model.dll
+D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Data\bin\Debug\KaJo.WebAPI.Data.Model.pdb
+D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Data\obj\Debug\KaJo.WebAPI.Data.Model.csprojResolveAssemblyReference.cache
+D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Data\obj\Debug\KaJo.WebAPI.Data.Model.dll
+D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Data\obj\Debug\KaJo.WebAPI.Data.Model.pdb

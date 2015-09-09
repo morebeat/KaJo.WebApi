@@ -1,0 +1,14 @@
+D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Data.SqlServer\bin\Debug\KaJo.WebAPI.Data.SqlServer.dll
+D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Data.SqlServer\bin\Debug\KaJo.WebAPI.Data.SqlServer.pdb
+D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Data.SqlServer\bin\Debug\EntityFramework.dll
+D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Data.SqlServer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Data.SqlServer\bin\Debug\KaJo.WebAPI.Data.Model.dll
+D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Data.SqlServer\bin\Debug\KaJo.WebAPI.Data.Model.pdb
+D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Data.SqlServer\bin\Debug\EntityFramework.xml
+D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Data.SqlServer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Data.SqlServer\obj\Debug\KaJo.WebAPI.Data.SqlServer.csprojResolveAssemblyReference.cache
+D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Data.SqlServer\obj\Debug\KaJo.WebAPI.Data.SqlServer.dll
+D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Data.SqlServer\obj\Debug\KaJo.WebAPI.Data.SqlServer.pdb
+D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Data.SqlServer\obj\Debug\KaJo.WebAPI.Data.SqlServer.Migrations.InitialCreate.resources
+D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Data.SqlServer\obj\Debug\KaJo.WebAPI.Data.SqlServer.csproj.GenerateResource.Cache
+D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Data.SqlServer\obj\Debug\KaJo.WebAPI.Data.SqlServer.Migrations.V1.resources

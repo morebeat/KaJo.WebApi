@@ -48,6 +48,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BookStoreContext.cs" />
+    <Compile Include="Migrations\201509091916115_InitialCreate.cs" />
+    <Compile Include="Migrations\201509091916115_InitialCreate.Designer.cs">
+      <DependentUpon>201509091916115_InitialCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201509091921595_V1.cs" />
+    <Compile Include="Migrations\201509091921595_V1.Designer.cs">
+      <DependentUpon>201509091921595_V1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -58,6 +68,14 @@
       <Project>{3b7a3787-3899-456a-8728-d53a70eddde4}</Project>
       <Name>KaJo.WebAPI.Data.Model</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201509091916115_InitialCreate.resx">
+      <DependentUpon>201509091916115_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201509091921595_V1.resx">
+      <DependentUpon>201509091921595_V1.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
