@@ -42,17 +42,33 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\KaJo.WebAPI.Application.Interfaces\KaJo.WebAPI.Application.Interfaces.csproj">
+      <Project>{12ee0784-0056-4e4f-89fb-fdd75a9bb5a7}</Project>
+      <Name>KaJo.WebAPI.Application.Interfaces</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\KaJo.WebAPI.Common.Data\KaJo.WebAPI.Data.csproj">
+      <Project>{241f7739-b779-43ec-b555-0df19119324d}</Project>
+      <Name>KaJo.WebAPI.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\KaJo.WebAPI.Common.Interfaces\KaJo.WebAPI.Common.Interfaces.csproj">
+      <Project>{f0b90771-fe8c-4944-80b7-abe53c15edb7}</Project>
+      <Name>KaJo.WebAPI.Common.Interfaces</Name>
+    </ProjectReference>
     <ProjectReference Include="..\KaJo.WebAPI.Common\KaJo.WebAPI.Common.csproj">
       <Project>{702bb5a0-db5e-4e07-b828-875f8139424b}</Project>
       <Name>KaJo.WebAPI.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\KaJo.WebAPI.Data.Interfaces\KaJo.WebAPI.Data.Interfaces.csproj">
+      <Project>{7832cfa7-8e33-478d-8dad-a0604c5ba7e6}</Project>
+      <Name>KaJo.WebAPI.Data.Interfaces</Name>
     </ProjectReference>
     <ProjectReference Include="..\KaJo.WebAPI.Data.SqlServer\KaJo.WebAPI.Data.SqlServer.csproj">
       <Project>{fe1909e4-a1ea-47cb-b4f1-a7449af028f5}</Project>
       <Name>KaJo.WebAPI.Data.SqlServer</Name>
     </ProjectReference>
-    <ProjectReference Include="..\KaJo.WebAPI.Data\KaJo.WebAPI.Data.csproj">
+    <ProjectReference Include="..\KaJo.WebAPI.Data\KaJo.WebAPI.Data.Model.csproj">
       <Project>{3b7a3787-3899-456a-8728-d53a70eddde4}</Project>
-      <Name>KaJo.WebAPI.Data</Name>
+      <Name>KaJo.WebAPI.Data.Model</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

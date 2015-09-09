@@ -51,13 +51,12 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\KaJo.WebAPI.Data\KaJo.WebAPI.Data.csproj">
+    <ProjectReference Include="..\KaJo.WebAPI.Data\KaJo.WebAPI.Data.Model.csproj">
       <Project>{3b7a3787-3899-456a-8728-d53a70eddde4}</Project>
-      <Name>KaJo.WebAPI.Data</Name>
+      <Name>KaJo.WebAPI.Data.Model</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
