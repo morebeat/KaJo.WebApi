@@ -122,12 +122,6 @@
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\KaJo.WebAPI.UI.WebFrontend\KaJo.WebAPI.UI.WebFrontend.csproj">
-      <Project>{0FC28A70-8BBC-4DA7-9896-55635855CA30}</Project>
-      <Name>KaJo.WebAPI.UI.WebFrontend</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

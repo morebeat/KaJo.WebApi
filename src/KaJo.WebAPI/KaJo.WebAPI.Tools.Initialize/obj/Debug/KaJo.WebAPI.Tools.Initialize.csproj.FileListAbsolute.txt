@@ -14,3 +14,5 @@ D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Tools.
 D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Tools.Initialize\obj\Debug\KaJo.WebAPI.Tools.Initialize.csprojResolveAssemblyReference.cache
 D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Tools.Initialize\obj\Debug\KaJo.WebAPI.Tools.Initialize.exe
 D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Tools.Initialize\obj\Debug\KaJo.WebAPI.Tools.Initialize.pdb
+D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Tools.Initialize\bin\Debug\KaJo.WebAPI.Data.Contracts.dll
+D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Tools.Initialize\bin\Debug\KaJo.WebAPI.Data.Contracts.pdb

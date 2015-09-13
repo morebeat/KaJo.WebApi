@@ -1,7 +1,14 @@
 D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Common.Data\bin\Debug\KaJo.WebAPI.Data.dll
 D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Common.Data\bin\Debug\KaJo.WebAPI.Data.pdb
-D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Common.Data\bin\Debug\KaJo.WebAPI.Data.Interfaces.dll
-D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Common.Data\bin\Debug\KaJo.WebAPI.Data.Interfaces.pdb
 D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Common.Data\obj\Debug\KaJo.WebAPI.Data.csprojResolveAssemblyReference.cache
 D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Common.Data\obj\Debug\KaJo.WebAPI.Data.dll
 D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Common.Data\obj\Debug\KaJo.WebAPI.Data.pdb
+D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Common.Data\bin\Debug\KaJo.WebAPI.Data.dll.config
+D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Common.Data\bin\Debug\EntityFramework.dll
+D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Common.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Common.Data\bin\Debug\KaJo.WebAPI.Data.Contracts.dll
+D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Common.Data\bin\Debug\KaJo.WebAPI.Data.Model.dll
+D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Common.Data\bin\Debug\KaJo.WebAPI.Data.Contracts.pdb
+D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Common.Data\bin\Debug\KaJo.WebAPI.Data.Model.pdb
+D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Common.Data\bin\Debug\EntityFramework.xml
+D:\Users\kajo1de\Documents\GitHub\KaJo.WebApi\src\KaJo.WebAPI\KaJo.WebAPI.Common.Data\bin\Debug\EntityFramework.SqlServer.xml

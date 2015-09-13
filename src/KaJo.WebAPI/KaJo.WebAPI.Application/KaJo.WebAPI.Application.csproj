@@ -58,9 +58,9 @@
       <Project>{702bb5a0-db5e-4e07-b828-875f8139424b}</Project>
       <Name>KaJo.WebAPI.Common</Name>
     </ProjectReference>
-    <ProjectReference Include="..\KaJo.WebAPI.Data.Interfaces\KaJo.WebAPI.Data.Interfaces.csproj">
+    <ProjectReference Include="..\KaJo.WebAPI.Data.Interfaces\KaJo.WebAPI.Data.Contracts.csproj">
       <Project>{7832cfa7-8e33-478d-8dad-a0604c5ba7e6}</Project>
-      <Name>KaJo.WebAPI.Data.Interfaces</Name>
+      <Name>KaJo.WebAPI.Data.Contracts</Name>
     </ProjectReference>
     <ProjectReference Include="..\KaJo.WebAPI.Data.SqlServer\KaJo.WebAPI.Data.SqlServer.csproj">
       <Project>{fe1909e4-a1ea-47cb-b4f1-a7449af028f5}</Project>

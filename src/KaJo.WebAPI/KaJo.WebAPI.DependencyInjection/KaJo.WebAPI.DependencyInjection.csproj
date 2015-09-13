@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2AFA3E7F-1A0E-49D5-BACF-95F0E37EF222}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>KaJo.WebAPI.DependencyInjection</RootNamespace>
+    <AssemblyName>KaJo.WebAPI.DependencyInjection</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Ninject, Version=3.2.0.0, Culture=neutral, PublicKeyToken=c7192dc5380945e7, processorArchitecture=MSIL">
+      <HintPath>..\..\..\lib\packages\Ninject.3.2.2.0\lib\net45-full\Ninject.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Aggregator.cs" />
+    <Compile Include="Data\RepositoriesMappings.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\KaJo.WebAPI.Application.Interfaces\KaJo.WebAPI.Application.Interfaces.csproj">
+      <Project>{12ee0784-0056-4e4f-89fb-fdd75a9bb5a7}</Project>
+      <Name>KaJo.WebAPI.Application.Interfaces</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\KaJo.WebAPI.Application\KaJo.WebAPI.Application.csproj">
+      <Project>{9e018a22-4cf1-45ba-8af4-6d5b97927bcb}</Project>
+      <Name>KaJo.WebAPI.Application</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\KaJo.WebAPI.Common.Data\KaJo.WebAPI.Data.csproj">
+      <Project>{241f7739-b779-43ec-b555-0df19119324d}</Project>
+      <Name>KaJo.WebAPI.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\KaJo.WebAPI.Common.Interfaces\KaJo.WebAPI.Common.Interfaces.csproj">
+      <Project>{f0b90771-fe8c-4944-80b7-abe53c15edb7}</Project>
+      <Name>KaJo.WebAPI.Common.Interfaces</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\KaJo.WebAPI.Common\KaJo.WebAPI.Common.csproj">
+      <Project>{702bb5a0-db5e-4e07-b828-875f8139424b}</Project>
+      <Name>KaJo.WebAPI.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\KaJo.WebAPI.Data.Interfaces\KaJo.WebAPI.Data.Contracts.csproj">
+      <Project>{7832cfa7-8e33-478d-8dad-a0604c5ba7e6}</Project>
+      <Name>KaJo.WebAPI.Data.Contracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\KaJo.WebAPI.Data.SqlServer\KaJo.WebAPI.Data.SqlServer.csproj">
+      <Project>{fe1909e4-a1ea-47cb-b4f1-a7449af028f5}</Project>
+      <Name>KaJo.WebAPI.Data.SqlServer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\KaJo.WebAPI.Data\KaJo.WebAPI.Data.Model.csproj">
+      <Project>{3b7a3787-3899-456a-8728-d53a70eddde4}</Project>
+      <Name>KaJo.WebAPI.Data.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
